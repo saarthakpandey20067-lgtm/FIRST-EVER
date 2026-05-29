@@ -1,2 +1,3 @@
 # FIRST-EVER
-MY FIRST GIT REPOSITORY
+MY FIRST GIT 
+Author - Saarthak Pandey
